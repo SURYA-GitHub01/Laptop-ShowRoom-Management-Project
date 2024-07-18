@@ -1,0 +1,5 @@
+com\LaptopShowRomm\Project1\Project1Application.class
+com\LaptopShowRomm\Project1\Controller\LaptopController.class
+com\LaptopShowRomm\Project1\Entity\LaptopEntity.class
+com\LaptopShowRomm\Project1\Service\LaptopService.class
+com\LaptopShowRomm\Project1\Repo\LaptopRepo.class
